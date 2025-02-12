@@ -1,0 +1,9 @@
+.container-demo2{
+    
+    background-color: #82b3ae;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
